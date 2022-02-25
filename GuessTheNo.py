@@ -5,4 +5,4 @@ print(b)
 if a == b:
     print("I Won")
 else: 
-    print("Opps I failed lets try again")
+    print("Opps! I failed lets try again")
